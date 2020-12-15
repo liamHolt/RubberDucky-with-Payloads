@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/start-job?view=powershell-7.1
+
+Start-Job -WorkingDirectory C:\Test\Scripts\test.ps1
+
+Stop-Job -Id
